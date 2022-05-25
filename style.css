@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.cal {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 75px;
+    
+}
+
+#titulo {
+    
+    text-align: center;
+    color: black;
+    text-rendering: auto;
+}
+
+#res {
+    text-align: center;
+}
